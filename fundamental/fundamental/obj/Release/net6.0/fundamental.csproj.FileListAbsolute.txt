@@ -1,0 +1,5 @@
+C:\Users\L E N O V O\source\repos\fundamental\fundamental\obj\Release\net6.0\fundamental.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\fundamental\fundamental\obj\Release\net6.0\fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L E N O V O\source\repos\fundamental\fundamental\obj\Release\net6.0\fundamental.AssemblyInfoInputs.cache
+C:\Users\L E N O V O\source\repos\fundamental\fundamental\obj\Release\net6.0\fundamental.AssemblyInfo.cs
+C:\Users\L E N O V O\source\repos\fundamental\fundamental\obj\Release\net6.0\fundamental.csproj.CoreCompileInputs.cache
