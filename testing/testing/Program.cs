@@ -6,21 +6,30 @@ namespace testing
     {
         static void Main(string[] args)
         {
-            int[] a = new int[10];
-            //input data
+            Console.WriteLine("Angka ke 4");
+            int angka1;
+            angka1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Angka ke 3");
+            int angka2;
+            angka2 = int.Parse(Console.ReadLine());
 
-            for(int k=0; k<10; k++)
-            {
-                Console.WriteLine("halo raul" + k);
-                a[k] = Convert.ToInt32(Console.ReadLine());
-            }
-            //kebalikan dari inpudata dan menamilkan data yang di atas
-            for (int k = 0; k < 10; k++)
-            {
-                Console.WriteLine("\n"); //spasi
-                Console.WriteLine("isi array ke -" + k);
-                Console.WriteLine(a[k]);
-            }
+            int jumlah;
+            int kali;
+            int bagi;
+            int kurang;
+
+            jumlah = angka1 + angka2;
+            kurang = angka1 - angka2; //tess
+            kali = angka1 * angka2;
+            bagi = angka1 / angka2;
+
+            Console.WriteLine("inihasilnyaaaa");
+            Console.WriteLine($"angka1 = {angka1}");
+            Console.WriteLine($"angka2 = {angka2}");
+            Console.WriteLine($"{angka1} + {angka2}");
+            Console.WriteLine($"{angka1} - {angka2}");
+            Console.WriteLine($"{angka1} * {angka2}");
+            Console.WriteLine($"{angka1} / {angka2}");
 
         }
     }
